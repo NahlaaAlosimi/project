@@ -58,5 +58,5 @@ Using more advanced models such as Support Vector Machines (SVM) or Random Fores
 Trying different feature extraction techniques.
 Applying hyperparameter tuning for better performance.
 We must point out that logical registration is better than NB.
-![image](https://github.com/user-attachments/assets/7e35846d-73a3-4920-97ed-c42f44bae99a)
+
 
